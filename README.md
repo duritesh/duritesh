@@ -32,11 +32,11 @@
 <img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
-<a href="https://linkedin.com/in/yourlinkedin" target="blank">
+<a href="https://linkedin.com/in/duritesh" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="https://instagram.com/yourinstagram" target="blank">
+<a href="https://instagram.com/itz_itax_chi" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 </p>
